@@ -25,3 +25,5 @@ COVID-19 cases at daily level is present in covid_19_india.csv file.
 
 ![img](https://user-images.githubusercontent.com/89068470/133879833-0ac155ae-1024-4056-a896-5a1bf00ba975.PNG)
 
+![newplot (2)](https://user-images.githubusercontent.com/89068470/133886458-0cc6ba75-a97b-47a4-b63e-f42e5be1b554.png)
+
